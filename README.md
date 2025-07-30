@@ -17,11 +17,6 @@ Maven
 📦 Estrutura do Projeto
 O projeto está dividido em pacotes organizados por responsabilidade:
 
-<img width="938" height="737" alt="Image" src="https://github.com/user-attachments/assets/77a988b3-526a-4512-abec-53dfc1c7ad09" />
-
-
-<img width="909" height="684" alt="Image" src="https://github.com/user-attachments/assets/22289ddf-b1db-4715-ad4c-b4731227afbf" />
-
 Copiar
 Editar
 com.devsuperior.dslist
