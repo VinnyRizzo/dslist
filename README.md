@@ -1,4 +1,5 @@
-🎮 DSList - Projeto de Listagem de Jogos
+## 🎮 DSList - Projeto de Listagem de Jogos
+
 Este projeto é uma API REST desenvolvida com Java e Spring Boot, que permite o gerenciamento e listagem de jogos. A aplicação permite obter informações como título, ano de lançamento, descrição curta e longa, gênero, plataformas, pontuação e imagem dos jogos. Os jogos são organizados em listas.
 
 🚀 Tecnologias Utilizadas
@@ -14,7 +15,7 @@ H2 Database (para testes locais)
 
 Maven
 
-📦 Estrutura do Projeto
+## 📦 Estrutura do Projeto
 O projeto está dividido em pacotes organizados por responsabilidade:
 
 Copiar
@@ -25,7 +26,7 @@ com.devsuperior.dslist
 ├── entities
 ├── repositories
 ├── services
-🧩 Entidades principais
+## 🧩 Entidades principais
 Game: representa os dados de um jogo.
 
 GameList: representa uma lista de jogos.
@@ -33,6 +34,7 @@ GameList: representa uma lista de jogos.
 Belonging: entidade intermediária que relaciona jogos e listas, com uma posição definida.
 
 📌 Funcionalidades
+
 🔎 Listar todos os jogos
 
 🗂️ Listar todas as listas de jogos
@@ -41,13 +43,13 @@ Belonging: entidade intermediária que relaciona jogos e listas, com uma posiç�
 
 🧾 Informações completas sobre cada jogo
 
-📡 Endpoints
+## 📡 Endpoints
 Verbo HTTP	Endpoint	Descrição
 GET	/games	Lista todos os jogos cadastrados
 GET	/lists	Lista todas as listas de jogos
 GET	/lists/{listId}/games	Lista todos os jogos de uma lista específica
 
-🛠️ Como executar
+## 🛠️ Como executar
 Clone o repositório:
 
 bash
