@@ -27,6 +27,7 @@ com.devsuperior.dslist
 ├── repositories
 ├── services
 ## 🧩 Entidades principais
+
 <img width="1307" height="483" alt="Image" src="https://github.com/user-attachments/assets/c1788f88-e323-411d-8c79-096303c1f25f" />
 
 Game: representa os dados de um jogo.
